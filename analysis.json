@@ -1,0 +1,25 @@
+{
+    "version": "1.0",
+    "explanations": {
+        "kernel_shap": {
+            "0": {
+                "global_shap_values": {
+                    "variance": 9.255240372263165,
+                    "skewness": 6.318156493423758,
+                    "curtosis": 3.5244587381390486,
+                    "entropy": 0.9757758011696084
+                },
+                "expected_value": 0.5087939227839711
+            },
+            "1": {
+                "global_shap_values": {
+                    "variance": 8.391852861851072,
+                    "skewness": 5.624340603761184,
+                    "curtosis": 3.514332305429304,
+                    "entropy": 0.8527906323097936
+                },
+                "expected_value": -0.5087939134326076
+            }
+        }
+    }
+}
